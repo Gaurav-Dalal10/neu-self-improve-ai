@@ -1,0 +1,17 @@
+state,value,optimal_action
+0,7248.70,Accept
+1,6948.70,Accept
+2,6648.70,Accept
+3,6348.70,Accept
+4,6048.70,Accept
+5,5748.70,Accept
+6,5448.70,Accept
+7,5148.70,Accept
+8,4848.70,Accept
+9,4548.70,Accept
+10,4248.70,Accept
+11,3948.70,Accept
+12,3648.70,Accept
+13,3348.70,Accept
+14,3048.70,Accept
+15,2748.70,Reject
