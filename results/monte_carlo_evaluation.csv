@@ -1,0 +1,6 @@
+policy,mean_profit,std_profit,mean_tickets,bump_probability
+Optimal Policy,2964.58,320.72,10.51,0.2072
+Always Full Price,2885.86,469.26,11.18,0.4300
+Always Discount,1967.24,579.43,14.35,0.9309
+No Overbooking,2848.87,291.35,9.59,0.0000
+Threshold-12 (20%),2944.71,430.41,10.69,0.3615
