@@ -1,0 +1,59 @@
+======================================================================
+SWE-bench Baseline Results Analysis
+======================================================================
+
+[STATISTICS] Overall Statistics
+----------------------------------------------------------------------
+Total instances in dataset: 300
+Total agent runs (trajectories): 18
+Successful trajectories: 14
+Total evaluations: 18
+Resolved instances: 14
+
+[RESULTS] Resolve Rate (Pass@1): 77.78%
+
+[RESULTS] Results by Model
+----------------------------------------------------------------------
+Model                     Total      Resolved   Rate      
+----------------------------------------------------------------------
+gpt-4o                    18         14         77.8%
+
+[TRAJECTORY] Trajectory Statistics
+----------------------------------------------------------------------
+Average actions per trajectory: 6.8
+Minimum actions: 3
+Maximum actions: 16
+
+[SUCCESS] Top 5 Successful Instances (by efficiency)
+----------------------------------------------------------------------
+Instance ID                              Actions    Model               
+----------------------------------------------------------------------
+astropy__astropy-14365                   4          gpt-4o              
+astropy__astropy-14365                   4          gpt-4o              
+astropy__astropy-6938                    4          gpt-4o              
+django__django-11019                     4          gpt-4o              
+astropy__astropy-14182                   5          gpt-4o              
+
+[FAILED] Sample Failed Instances
+----------------------------------------------------------------------
+Instance ID                              Actions    Model               
+----------------------------------------------------------------------
+astropy__astropy-14995                   5          gpt-4o              
+astropy__astropy-7746                    5          gpt-4o              
+django__django-11179                     3          gpt-4o              
+astropy__astropy-12907                   0          gpt-4o              
+
+[TOOLS] Tool Usage Statistics
+----------------------------------------------------------------------
+Tool                           Count     
+----------------------------------------------------------------------
+read_file_lines                38        
+search_code                    32        
+edit_file                      19        
+get_diff                       14        
+list_files                     7         
+read_file                      5         
+
+======================================================================
+
+[COMPLETE] Results saved successfully!
