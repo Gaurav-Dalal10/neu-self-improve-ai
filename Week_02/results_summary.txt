@@ -1,0 +1,17 @@
+========================================================================
+SWE-bench Baseline: Test-Based Evaluation Summary
+========================================================================
+Total runs: 5
+Resolved runs: 0
+Resolved rate: 0.00%
+Patch-generated runs: 5
+Patch-generated rate: 100.00%
+Average runtime seconds: 32.06
+
+Latest 10 rows:
+------------------------------------------------------------------------
+astropy__astropy-12907 | resolved=0 | patch_generated=1 | runtime=32.466 | error=patch_apply_failed
+astropy__astropy-14182 | resolved=0 | patch_generated=1 | runtime=34.75 | error=patch_apply_failed
+astropy__astropy-14365 | resolved=0 | patch_generated=1 | runtime=32.534 | error=patch_apply_failed
+astropy__astropy-14995 | resolved=0 | patch_generated=1 | runtime=31.89 | error=patch_apply_failed
+astropy__astropy-6938 | resolved=0 | patch_generated=1 | runtime=28.681 | error=patch_apply_failed
