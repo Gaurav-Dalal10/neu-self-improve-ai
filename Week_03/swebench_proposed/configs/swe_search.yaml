@@ -1,0 +1,25 @@
+dataset:
+  name: princeton-nlp/SWE-bench_Lite
+  split: test
+  limit: 50
+
+models:
+  action_model: gpt-4o
+  value_model: gpt-4o-mini
+  discriminator_model: gpt-4o
+
+mcts:
+  rollouts: 50
+  max_depth: 10
+  branching_k: 3
+  C: 1.2
+  alpha: 0.3
+  beta: 0.7
+  gamma: 0.03
+  low_reward_prune_k: 3
+
+execution:
+  max_steps_per_action_rollout: 8
+  timeout_seconds: 900
+  max_candidates: 5
+  seed: 42

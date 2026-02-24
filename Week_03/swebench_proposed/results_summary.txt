@@ -1,0 +1,22 @@
+========================================================================
+SWE-bench Proposed: Test-Based Evaluation Summary
+========================================================================
+Total runs: 69
+Resolved runs: 0
+Resolved rate: 0.00%
+Patch-generated runs: 56
+Patch-generated rate: 81.16%
+Average runtime seconds: 16.43
+
+Latest 10 rows:
+------------------------------------------------------------------------
+django__django-11019 | resolved=0 | patch_generated=1 | runtime=21.372 | error=none
+django__django-11001 | resolved=0 | patch_generated=0 | runtime=0.0 | error=no_patch
+django__django-10924 | resolved=0 | patch_generated=1 | runtime=22.551 | error=none
+django__django-10914 | resolved=0 | patch_generated=1 | runtime=21.733 | error=none
+astropy__astropy-7746 | resolved=0 | patch_generated=0 | runtime=0.0 | error=no_patch
+astropy__astropy-6938 | resolved=0 | patch_generated=1 | runtime=15.216 | error=none
+astropy__astropy-14995 | resolved=0 | patch_generated=1 | runtime=17.331 | error=none
+astropy__astropy-14365 | resolved=0 | patch_generated=1 | runtime=18.322 | error=none
+astropy__astropy-14182 | resolved=0 | patch_generated=1 | runtime=33.39 | error=none
+astropy__astropy-12907 | resolved=0 | patch_generated=1 | runtime=16.23 | error=none
