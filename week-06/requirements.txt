@@ -1,0 +1,6 @@
+torch>=2.0
+gymnasium>=0.29
+minigrid>=2.3
+numpy>=1.24
+pandas
+matplotlib
