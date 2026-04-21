@@ -1,0 +1,6 @@
+label,model,bamboogle,2wiki,hotpotqa,musique,avg_search,gaia,status
+slot_qwen3_5_0_8b_sub,Qwen/Qwen2.5-7B-Instruct,,,,,,,missing_endpoint_config
+slot_qwen3_5_2b_sub,Qwen/Qwen3-14B,,,,,,,missing_endpoint_config
+slot_qwen3_5_4b_sub,Qwen/Qwen3-30B-A3B,,,,,,,missing_endpoint_config
+slot_qwen3_5_9b_sub,Qwen/Qwen3-32B,,,,,,,missing_endpoint_config
+slot_qwen3_5_27b_sub,Qwen/Qwen2.5-72B-Instruct,,,,,,,missing_endpoint_config

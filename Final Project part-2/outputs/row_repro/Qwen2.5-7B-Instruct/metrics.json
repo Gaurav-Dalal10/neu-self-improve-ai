@@ -1,0 +1,23 @@
+{
+  "metrics": {
+    "avg": 0.0,
+    "gaia": 0.0
+  },
+  "targets": {
+    "bamboogle": 58.4,
+    "2wiki": 60.0,
+    "hotpotqa": 51.3,
+    "musique": 19.2,
+    "avg": 47.2,
+    "gaia": 17.2
+  },
+  "deltas": {
+    "bamboogle": -58.4,
+    "2wiki": -60.0,
+    "hotpotqa": -51.3,
+    "musique": -19.2,
+    "avg": -47.2,
+    "gaia": -17.2
+  },
+  "sources": {}
+}

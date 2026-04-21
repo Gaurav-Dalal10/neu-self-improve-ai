@@ -1,0 +1,7 @@
+metric,ours,target,delta
+bamboogle,0.000,58.400,-58.400
+2wiki,0.000,60.000,-60.000
+hotpotqa,0.000,51.300,-51.300
+musique,0.000,19.200,-19.200
+avg_search_intensive,0.000,47.200,-47.200
+gaia,0.000,17.200,-17.200

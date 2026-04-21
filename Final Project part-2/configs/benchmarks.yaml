@@ -1,0 +1,14 @@
+benchmarks:
+  bamboogle:
+    dataset_path: ""
+  2wiki:
+    dataset_path: ""
+    default_n_examples: 100
+  hotpotqa:
+    dataset_path: ""
+    default_n_examples: 100
+  musique:
+    dataset_path: ""
+    default_n_examples: 100
+  gaia:
+    dataset_path: ""

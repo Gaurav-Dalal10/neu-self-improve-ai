@@ -1,0 +1,14 @@
+default_engine: openai_compat
+engines:
+  openai_compat:
+    type: openai_compat
+    base_url_env: OPENAI_COMPAT_BASE_URL
+    api_key_env: OPENAI_COMPAT_API_KEY
+    timeout_sec: 60
+    max_retries: 3
+  dashscope_compat:
+    type: dashscope_compat
+    base_url_env: DASHSCOPE_BASE_URL
+    api_key_env: DASHSCOPE_API_KEY
+    timeout_sec: 60
+    max_retries: 3

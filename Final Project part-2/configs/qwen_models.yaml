@@ -1,0 +1,43 @@
+models:
+  row_repro_target:
+    provider: deepinfra
+    model: "Qwen/Qwen2.5-7B-Instruct"
+    context_length: 32768
+    stop: ["</tool>"]
+
+# Professor-approved substitutions due model availability constraints.
+# Keep this mapping explicit in all reports.
+substitution_policy:
+  enabled: true
+  note: "Qwen3.5 required sizes unavailable in Portkey catalog this week; use closest available Qwen models."
+
+# Required assignment slots mapped to available models.
+required_slots:
+  qwen3_5_0_8b:
+    substitute_model: "Qwen/Qwen2.5-7B-Instruct"
+    reason: "Smallest available instruct Qwen in catalog; suitable for budget-sensitive runs."
+  qwen3_5_2b:
+    substitute_model: "Qwen/Qwen3-14B"
+    reason: "Closest smaller available Qwen3 family option."
+  qwen3_5_4b:
+    substitute_model: "Qwen/Qwen3-30B-A3B"
+    reason: "Available mid-tier Qwen3 substitute."
+  qwen3_5_9b:
+    substitute_model: "Qwen/Qwen3-32B"
+    reason: "Closest available larger Qwen3 substitute."
+  qwen3_5_27b:
+    substitute_model: "Qwen/Qwen2.5-72B-Instruct"
+    reason: "High-capacity available Qwen substitute."
+
+# Ordered sweep list used by run_qwen35_sweep.py
+sweep_models:
+  - label: "slot_qwen3_5_0_8b_sub"
+    model: "Qwen/Qwen2.5-7B-Instruct"
+  - label: "slot_qwen3_5_2b_sub"
+    model: "Qwen/Qwen3-14B"
+  - label: "slot_qwen3_5_4b_sub"
+    model: "Qwen/Qwen3-30B-A3B"
+  - label: "slot_qwen3_5_9b_sub"
+    model: "Qwen/Qwen3-32B"
+  - label: "slot_qwen3_5_27b_sub"
+    model: "Qwen/Qwen2.5-72B-Instruct"

@@ -1,0 +1,7 @@
+training:
+  gpu_dev: "L40S"
+  gpu_final: "L40S"
+  timeout_dev_sec: 600
+  timeout_final_sec: 21600
+  max_steps_dev: 20
+  max_steps_final: 1200

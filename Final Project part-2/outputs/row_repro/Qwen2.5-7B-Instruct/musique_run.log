@@ -1,0 +1,609 @@
+========================================
+MODEL: gpt-4o-mini
+LABEL: Qwen2.5-7B-Instruct
+TASK: musique
+========================================
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/solve.py", line 14, in <module>
+    from agentflow.agentflow.models.planner import Planner
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/agentflow/agentflow/models/planner.py", line 6, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+Traceback (most recent call last):
+  File "/Users/mayank/Desktop/neu-self-improve-ai/Final_Project/AgentFlow/test/calculate_score_unified.py", line 5, in <module>
+    import tqdm
+ModuleNotFoundError: No module named 'tqdm'

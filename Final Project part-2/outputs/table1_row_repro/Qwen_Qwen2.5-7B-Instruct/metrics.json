@@ -1,0 +1,29 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "engine": "openai_compat",
+  "seed": 42,
+  "benchmarks": {
+    "bamboogle": {
+      "accuracy": 0.0,
+      "status": "missing_dataset_path"
+    },
+    "2wiki": {
+      "accuracy": 0.0,
+      "status": "missing_dataset_path"
+    },
+    "hotpotqa": {
+      "accuracy": 0.0,
+      "status": "missing_dataset_path"
+    },
+    "musique": {
+      "accuracy": 0.0,
+      "status": "missing_dataset_path"
+    },
+    "gaia": {
+      "accuracy": 0.0,
+      "status": "missing_dataset_path"
+    }
+  },
+  "avg_search_intensive": 0.0,
+  "gaia": 0.0
+}

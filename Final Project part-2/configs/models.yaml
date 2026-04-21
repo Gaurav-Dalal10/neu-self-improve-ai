@@ -1,0 +1,24 @@
+# Primary model routing config for Part 2 wrappers.
+# Use substitutions if exact assignment models are unavailable.
+
+row_repro:
+  model_label: "Qwen2.5-7B-Instruct"
+  model: "Qwen/Qwen2.5-7B-Instruct"
+
+qwen35_slots:
+  qwen3_5_0_8b:
+    model: "Qwen/Qwen2.5-7B-Instruct"
+    substitution: true
+    reason: "Closest low-cost available model"
+  qwen3_5_2b:
+    model: "Qwen/Qwen3-14B"
+    substitution: true
+  qwen3_5_4b:
+    model: "Qwen/Qwen3-30B-A3B"
+    substitution: true
+  qwen3_5_9b:
+    model: "Qwen/Qwen3-32B"
+    substitution: true
+  qwen3_5_27b:
+    model: "Qwen/Qwen2.5-72B-Instruct"
+    substitution: true

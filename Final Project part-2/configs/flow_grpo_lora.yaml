@@ -1,0 +1,19 @@
+training:
+  model: "Qwen/Qwen3.5-0.8B"
+  output_dir: "final_project_part2/training_modal/checkpoints"
+  gpu_dev: "L40S"
+  gpu_final: "L40S"
+  max_steps_dev: 20
+  max_steps_final: 1200
+  timeout_dev_sec: 600
+  timeout_final_sec: 21600
+  heartbeat_sec: 60
+  stagnation_patience_minutes: 3
+  lora_r: 16
+  lora_alpha: 64
+  lora_dropout: 0.05
+  num_generations: 4
+  beta: 0.001
+  learning_rate: 5e-6
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 4
